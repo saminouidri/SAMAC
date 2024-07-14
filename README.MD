@@ -9,7 +9,7 @@ The basic idea is to take the basic data essential to material creation, which w
 
 
 ## Author(s)
-The entire code was written by me (suroxdesigns) and some parts inspired by various resources online. The idea came from a nice colleague :) 
+The entire code was written by me and some parts inspired by various resources online. The idea came from a nice colleague :) 
 ## License
 
 This project is licensed under the GPLv3
